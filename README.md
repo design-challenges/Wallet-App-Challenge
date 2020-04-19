@@ -19,15 +19,15 @@ Five screens of the re-designed wallet app concept:
 ![Wallet App Challenge](https://img.shields.io/static/v1?label=Upvotes&message=20&color=blue)
 
 ## Screenshots
-![Cover Image](https://assets.materialup.com/uploads/8a88fd8a-354e-4bf9-bc1f-f692fc7a41e1/attachment.png)
+![Cover Image](Exports/Final/Main.png)
 
-![Expense History View](https://assets.materialup.com/uploads/15966444-4f05-4774-ba2e-58b4cc8086b1/attachment.png)
+![Expense History View](Exports/Final/Screen%204.png)
 
-![Add Transaction View](https://assets.materialup.com/uploads/6cdeeae6-7fba-49f5-8178-f2a009b64a4b/attachment.png)
+![Add Transaction View](Exports/Final/Screen%203.png)
 
-![Quick Entry View](https://assets.materialup.com/uploads/70f73998-8ed1-4080-917d-663b81c6d5ea/attachment.png)
+![Quick Entry View](Exports/Final/Screen%202.png)
 
-![Sidemenu View](https://assets.materialup.com/uploads/35491070-7339-4d6b-86e0-e55095f614ff/attachment.png)
+![Sidemenu View](Exports/Final/Screen%201.png)
 
 ## Directory Structure
 ```
@@ -40,11 +40,9 @@ Five screens of the re-designed wallet app concept:
 ```
 
 ## Tools Used
-Sketch App (v63.1)
+- Sketch App (v63.1)
 
 ## License
 MIT &copy; 2020 [Abhinay Thakur](thisisabhinay.com). 
 
 [Licence File](https://github.com/thisisabhinay/Wallet-App-Challenge/blob/master/LICENSE)
-
-
