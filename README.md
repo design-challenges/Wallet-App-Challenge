@@ -1,6 +1,6 @@
 # Wallet App Challenge
 
-A design concept for [wallet app](https://www.uplabs.com/challenges/wallet-app-challenge) challenge hosted on *UpLab's* Community.
+A design concept for [wallet app](https://www.uplabs.com/challenges/wallet-app-challenge) challenge hosted on *UpLabs'* Community.
 
 ## Motivation
  Participated in challenge to test UI designing and project delivery skills. The deadline was only 72 hours (from the time of participation). 
