@@ -43,6 +43,6 @@ Five screens of the re-designed wallet app concept:
 - Sketch App (v63.1)
 
 ## License
-MIT &copy; 2020 [Abhinay Thakur](thisisabhinay.com). 
+MIT &copy; 2020 [Abhinay Thakur](https://thisisabhinay.com). 
 
 [Licence File](https://github.com/thisisabhinay/Wallet-App-Challenge/blob/master/LICENSE)
